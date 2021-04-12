@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year PhD student at Department of Informatics, Technical University of Munich (TUM). My PhD research topic is real-time scheduling of deep learning tasks in cyber physical systems, advised by Prof. Marco Caccamo. Before my PhD study, I was a master's student at Department of Automation, Tsinghua University. My master's research topic is optimization and sccheduling algorithms for production scheduling problems, advised by Prof. Ling Wang.
+I am currently a first-year PhD student at Department of Informatics, Technical University of Munich (TUM). My PhD supervisor is [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/). Before that, I was a master's student at Department of Automation, Tsinghua University, where I was fortunated to be supervised by [Prof. Ling Wang](https://scholar.google.com/citations?user=lC7bVMwAAAAJ&hl=en&oi=ao).
 
 Contact
 ======

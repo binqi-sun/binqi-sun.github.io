@@ -12,9 +12,11 @@ I am currently a first-year PhD student at Department of Informatics, Technical 
 
 My current research interests are real-time optimization and scheduling for deep learning tasks in cyber-physical systems. Related research topics include real-time deep neural network (DNN) compression, real-time DNN inference task scheduling, and energy and resourse management in cyber-physical systems. My previous research experience lay in the study of optimization and scheduling algorithms for production scheduling problems.
 
+Please feel free to send me an email if you are interested in my research and want to discuss relevant research topics or potential collaborations.
+
 Contact
 ======
-binqi.sun@tum.de
+binqi.sun[at]tum.de
 
 
 Test

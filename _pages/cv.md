@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+# title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,6 +19,16 @@ Work experience
 * Research Assistant at Microsoft Research Asia, Sep 2020 - Feb 2021 (Beijing)
 * Research Internship at Huawei Noah's Lab, Jun 2019 - Aug 2020 (Shenzhen)
 
+Honors & Awards
+======
+* Tsinghua Outstanding Graduate, 2020
+* Tsinghua Excellent Master’s dissertation, 2020
+<!-- * Beijing Outstanding Graduate, 2020 -->
+* Tsinghua “December Ninth” Scholarship (一二·九奖学金), 2019
+* Finalist of Tsinghua Top Grade Scholarship (清华大学特等奖学金候选人), 2019
+* Second Prize, National Post-graduate Mathematical Contest in Modeling, 2017
+* Second Prize, National Undergraduate Mathematical Contest in Modeling, 2015
+
 Skills
 ======
 * Programming skills
@@ -28,19 +38,11 @@ Skills
   * English (working language)
   * Chinese (native)
 
-Honors & Awards
+Publications
 ======
-* Tsinghua Outstanding Graduate, 2020
-* Tsinghua Excellent Master’s dissertation, 2020
-* Beijing Outstanding Graduate, 2020
-* Tsinghua “December Ninth” Scholarship (一二·九奖学金), 2019
-* Finalist of Tsinghua Top Grade Scholarship (清华大学特等奖学金候选人), 2019
-* Second Prize, National Post-graduate Mathematical Contest in Modeling, 2017
-* Second Prize, National Undergraduate Mathematical Contest in Modeling, 2015
+Please refer to my [Google Scholar](https://scholar.google.com/citations?user=ZFeeY4gAAAAJ&hl=en)
 
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 

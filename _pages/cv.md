@@ -11,49 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D candidate at Department of Infomatics, Technical University of Munich, Mar 2021 -
+* M.Sc. at Department of Automation, Tsinghua University, Sep 2017 - Jun 2020
 
-Work experience
+Work & Internship experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant at Microsoft Research Asia, Sep 2020 - Feb 2021 (Beijing)
+* Research Internship at Huawei Noah's Lab, Jun 2019 - Aug 2020 (Shenzhen)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skills
+  * C++, Python
+  * Gurobi, Tensorflow
+* Language skills
+  * English (working language)
+  * Chinese (native)
 
-Publications
+Honors & Awards
+======
+* Tsinghua Outstanding Graduate, 2020
+* Tsinghua Excellent Master’s dissertation, 2020
+* Beijing Outstanding Graduate, 2020
+* Tsinghua “December Ninth” Scholarship (一二·九奖学金), 2019
+* Finalist of Tsinghua Top Grade Scholarship (清华大学特等奖学金候选人), 2019
+* Second Prize, National Post-graduate Mathematical Contest in Modeling, 2017
+* Second Prize, National Undergraduate Mathematical Contest in Modeling, 2015
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+  {% endfor %}</ul> -->
+
+<!-- Service and leadership
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

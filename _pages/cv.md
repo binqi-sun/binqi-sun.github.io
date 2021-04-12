@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,7 +14,7 @@ Education
 * Ph.D candidate at Department of Infomatics, Technical University of Munich, Mar 2021 -
 * M.Sc. at Department of Automation, Tsinghua University, Sep 2017 - Jun 2020
 
-Work & Internship experience
+Work experience
 ======
 * Research Assistant at Microsoft Research Asia, Sep 2020 - Feb 2021 (Beijing)
 * Research Internship at Huawei Noah's Lab, Jun 2019 - Aug 2020 (Shenzhen)

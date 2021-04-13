@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D candidate at Department of Infomatics, Technical University of Munich, Mar 2021 -
-* M.Sc. at Department of Automation, Tsinghua University, Sep 2017 - Jun 2020
+* Ph.D candidate at Department of Infomatics, [Technical University of Munich](https://www.tum.de/en/), Mar 2021 -
+* M.Sc. at Department of Automation, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Sep 2017 - Jun 2020
 
 Work experience
 ======
-* Research Assistant at Microsoft Research Asia, Sep 2020 - Feb 2021 (Beijing)
-* Research Internship at Huawei Noah's Lab, Jun 2019 - Aug 2020 (Shenzhen)
+* Research Assistant at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Sep 2020 - Feb 2021 (Beijing)
+* Research Internship at [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/), Jun 2019 - Aug 2020 (Shenzhen)
 
 Honors & Awards
 ======

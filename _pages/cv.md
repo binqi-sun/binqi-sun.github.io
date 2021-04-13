@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Academic Education
 ======
 * Ph.D candidate at Department of Infomatics, [Technical University of Munich](https://www.tum.de/en/), Mar 2021 -
 * M.Sc. at Department of Automation, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Sep 2017 - Jun 2020
+* B.E. at School of Computer and Control Engineering, [Nankai University](https://en.nankai.edu.cn/), Sep 2013 - Jun 2017
 
-Work experience
+Work Experience
 ======
 * Research Assistant at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Sep 2020 - Feb 2021 (Beijing)
 * Research Internship at [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/), Jun 2019 - Aug 2020 (Shenzhen)

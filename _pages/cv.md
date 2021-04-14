@@ -13,7 +13,7 @@ Academic Education
 ======
 * Ph.D candidate at Department of Infomatics, [Technical University of Munich](https://www.tum.de/en/), Mar 2021 -
 * M.Sc. at Department of Automation, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Sep 2017 - Jun 2020
-* B.E. at School of Computer and Control Engineering, [Nankai University](https://en.nankai.edu.cn/), Sep 2013 - Jun 2017
+<!-- * B.E. at School of Computer and Control Engineering, [Nankai University](https://en.nankai.edu.cn/), Sep 2013 - Jun 2017 -->
 
 Work Experience
 ======

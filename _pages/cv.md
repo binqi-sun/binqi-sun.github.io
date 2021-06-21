@@ -22,8 +22,9 @@ Work Experience
 
 Honors & Awards
 ======
-* Tsinghua Outstanding Graduate, 2020
-* Tsinghua Excellent Master’s dissertation, 2020
+* Excellent Master's Thesis, The 4th Annual Conference on Intelligent Optimization and Scheduling, 2021
+* Excellent Graduate of Tsinghua University, 2020
+* Excellent Master’s Thesis Award, Tsinghua University, 2020
 <!-- * Beijing Outstanding Graduate, 2020 -->
 * Tsinghua “December Ninth” Scholarship (一二·九奖学金), 2019
 * Finalist of Tsinghua Top Grade Scholarship (清华大学特等奖学金候选人), 2019

@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year PhD student at Department of Informatics, Technical University of Munich (TUM), and my PhD supervisor is [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/). Before that, I was a master's student at Department of Automation, Tsinghua University, where I was fortunated to be supervised by [Prof. Ling Wang](https://scholar.google.com/citations?user=lC7bVMwAAAAJ&hl=en&oi=ao).
+I am currently a first-year PhD student at Department of Informatics, Technical University of Munich (TUM), supervised by [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/). Before that, I was a master's student at Department of Automation, Tsinghua University, where I was fortunated to be supervised by [Prof. Ling Wang](https://scholar.google.com/citations?user=lC7bVMwAAAAJ&hl=en&oi=ao).
 
-My current research interest is real-time deep neural network inference in cyber-physical systems. Related research topics include neural network compression, dynamic neural network design, and real-time scheduling of deep neural network inference tasks. My previous research experience was related to optimization algorithms for production planning and scheduling problems.
+My current research interests are real-time scheduling, optimization, and machine learning. During my PhD period, I will focus on the interdisciplinary research of real-time (RT) system scheduling and machine learning (ML). Related research topics include real-time deep neural network inference (RT for ML) and machine learning based real-time scheduling algorithm design (ML for RT). My previous research experiences are related to optimization algorithms for production scheduling problems.
 
 Please feel free to send me an email if you are interested in my research and want to discuss relevant research topics or potential collaborations.
 

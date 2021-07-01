@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Binqi Sun's personal website"
+title                    : "Binqi Sun's personal website"
 title_separator          : "-"
 name                     : &name "Binqi Sun"
 description              : &description "personal description"

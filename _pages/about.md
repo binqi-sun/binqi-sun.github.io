@@ -12,6 +12,8 @@ I am currently a first-year doctoral student at Department of Informatics, Techn
 
 My research interests include optimization, scheduling, and artificial intelligence. During my doctoral study, I will focus on the intersection of real-time (RT) system and machine learning (ML). Related research topics include real-time deep neural network inference (RT for ML) and machine learning based real-time scheduling algorithm design (ML for RT). My previous research is related to optimization algorithms for production scheduling problems.
 
+![avatar](images/phd_research_topic.png)
+
 Please feel free to send me an email if you are interested in my research and want to discuss relevant research topics or potential collaborations.
 
 Contact

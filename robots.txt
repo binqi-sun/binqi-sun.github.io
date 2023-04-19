@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://binqi-sun.github.io/home/sitemap.xml
+Sitemap: https://binqi-sun.github.io/sitemap.xml

@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: img/profile.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>MW2102a</p>
+    <p>Boltzmannstraße 15</p>
+    <p>85748 Garching b. München</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

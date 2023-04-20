@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Technical University of Munich</a>
+subtitle: PhD student at <a href='#'>Technical University of Munich</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>MW2102a</p>
     <p>Boltzmannstraße 15</p>

@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href='https://rtsl.cps.mw.tum.de/'>Technical University of Munich</a>
+subtitle: Ph.D. student & Research assistant @ <a href='https://rtsl.cps.mw.tum.de/'>Technical University of Munich</a>
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student & Research assistant @ <a href='https://rtsl.cps.mw.tum.de/'>Technical University of Munich</a>
+subtitle: Ph.D. student & Research associate @ <a href='https://rtsl.cps.mw.tum.de/'>Technical University of Munich</a>
 
 profile:
   align: center
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently a doctoral student at Chair of Cyber Physical Systems in Production Engineering, Technical University of Munich (TUM), supervised by [Prof. Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/). Before that, I was a master's student at Department of Automation, Tsinghua University, where I was fortunated to be supervised by [Prof. Ling Wang](https://scholar.google.com/citations?user=lC7bVMwAAAAJ&hl=en&oi=ao).
 
-My research interests include optimization, scheduling, and machine learning. During my doctoral study, I will focus on the intersection of real-time (RT) systems and machine learning (ML). Related research topics include real-time deep neural network inference (RT for ML) and machine learning based real-time scheduling (ML for RT). My previous research is related to combinatorial optimization and smart manufacturing.
+My research interests include optimization, scheduling, and machine learning. During my doctoral study, I will focus on the intersection of real-time (RT) systems and machine learning (ML). Related research topics include real-time deep neural network inference (RT for ML) and machine learning based real-time system design (ML for RT). My previous research is related to combinatorial optimization and smart manufacturing.
 
 Please feel free to send me an email if you are interested in my research and want to discuss relevant research topics or potential collaborations.
 

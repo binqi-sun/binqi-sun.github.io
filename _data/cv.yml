@@ -43,16 +43,19 @@
   contents:
     - year: 2021
       items: 
-        - Microsoft Research Stars of Tomorrow Award
+        - Stars of Tomorrow Award issued by Microsoft Research Lab Asia
+        - Excellent Master's Thesis Award issued by the 4th Annual Conference on Intelligent Optimization and Scheduling
     - year: 2020
       items: 
-        - Tsinghua Outstanding Graduates
+        - Excellent Graduate of Tsinghua University
+        - Excellent Master's Thesis Award issued by Tsinghua University
     - year: 2019
       items: 
-        - Finalist, Tsinghua Top Grade Scholarship
+        - Tsinghua “December Ninth” Scholarship (一二·九奖学金)
+        - Finalist of Tsinghua Top Grade Scholarship (清华大学特等奖学金候选人)
     - year: 2017
       items: 
-        - Second Prize, National Post-graduate Mathematical Contest in Modeling
+        - Second Prize of National Post-graduate Mathematical Contest in Modeling
 
 # - title: Academic Interests
 #   type: nested_list

@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Here is the list of courses that I am teaching/have taught.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 **Concepts and Software Design for Cyber-Physical Systems**<br>

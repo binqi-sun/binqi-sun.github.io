@@ -8,6 +8,12 @@ nav_order: 4
 ---
 
 **Concepts and Software Design for Cyber-Physical Systems**<br>
+Fall '23, Master course, Technical Univerity of Munich<br>
+
+**Advanced Seminar on Safe Cyber-Physical Systems**<br>
+Spring '23, Master course, Technical Univerity of Munich<br>
+
+**Concepts and Software Design for Cyber-Physical Systems**<br>
 Fall '22, Master course, Technical Univerity of Munich<br>
 
 **Advanced Seminar on Safe Cyber-Physical Systems**<br>

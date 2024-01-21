@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will attend the [2023 ACM Europe Summer School on “HPC Computer Architectures for AI and Dedicated Applications”](https://europe.acm.org/hpc-summer-school) in Barcelona, Spain.
+I will attend the 2023 ACM Europe Summer School on “HPC Computer Architectures for AI and Dedicated Applications” in Barcelona, Spain.

@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Binqi Sun
-    # - name: Date of Birth
-    #   value: 03 March 1995
     - name: Languages
       value: English, Chinese
 
@@ -15,14 +13,19 @@
       institution: TUM School of Computation, Information, and Technology, Technical University of Munich, Munich, Germany
       year: 2021 - 
       description:
-        - "Supervisor: Prof. Marco Caccamo"
-        - Research on the intersection of real-time systems and machine learning
+        - "Advisor: Marco Caccamo"
+        # - Research on the intersection of real-time systems and machine learning
+    - title: Visiting Ph.D. student in Computer Science
+      institution: Department of Computer Science, University of Illinois Urbana-Champaign, IL, USA
+      year: 2024 - 
+      description:
+        - "Advisor: Tarek Abdelzaher"
     - title: M.Sc. in Control Science and Engineering
       institution: Department of Automation, Tsinghua University, Beijing, China
       year: 2017 - 2020
       description:
-        - "Supervisor: Prof. Ling Wang"
-        - "Thesis: Data-model Fusion Intelligent Optimization for Assembly Line Balancing"
+        - "Advisor: Ling Wang"
+        # - "Thesis: Data-model Fusion Intelligent Optimization for Assembly Line Balancing"
 
 - title: Experience
   type: time_table

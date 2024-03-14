@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student & Research associate @ <a href='https://rtsl.cps.mw.tum.de/'>Technical University of Munich</a>
+subtitle: Ph.D. student @ [TUM](https://www.tum.de/en) & [UIUC](https://illinois.edu/)
 
 profile:
   align: center

@@ -10,13 +10,13 @@
   type: time_table
   contents:
     - title: Ph.D. student in Computer Science
-      institution: TUM School of Computation, Information, and Technology, Technical University of Munich, Munich, Germany
+      institution: TUM School of Computation, Information, and Technology, Technical University of Munich (TUM), Germany
       year: 2021 - 
       description:
         - "Advisor: Marco Caccamo"
         # - Research on the intersection of real-time systems and machine learning
     - title: Visiting Ph.D. student in Computer Science
-      institution: Department of Computer Science, University of Illinois Urbana-Champaign, IL, USA
+      institution: Department of Computer Science, University of Illinois Urbana-Champaign (UIUC), USA
       year: 2024 - 
       description:
         - "Advisor: Tarek Abdelzaher"

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper: Minimizing Cache Usage for Real-time Systems got Best Paper Award in RTNS 2023.
+Our paper: Minimizing Cache Usage for Real-time Systems got the Best Paper Award in RTNS 2023.

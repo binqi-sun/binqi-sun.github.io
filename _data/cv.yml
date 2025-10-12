@@ -44,9 +44,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - Best Paper Award, International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)
     - year: 2023
       items: 
-        - Best Paper Award, the 31st International Conference on Real-Time Networks and Systems (RTNS)
+        - Best Paper Award, International Conference on Real-Time Networks and Systems (RTNS)
     - year: 2021
       items: 
         - Stars of Tomorrow Award issued by Microsoft Research Lab Asia

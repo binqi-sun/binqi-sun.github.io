@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. student at the Chair of Cyber Physical Systems in Production Engineering, Technical University of Munich ([TUM](https://www.tum.de/en)), advised by [Marco Caccamo](https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/). Until recently, I was also a visiting researcher with [Tarek Abdelzaher](https://abdelzaher.cs.illinois.edu/) at the Department of Computer Science, University of Illinois Urbana-Champaign ([UIUC](https://illinois.edu/)). Before I started my Ph.D., I obtained my master's degree from the Department of Automation, [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Ling Wang](https://scholar.google.com/citations?user=lC7bVMwAAAAJ&hl=en&oi=ao). 
 
-My research interests include optimization, scheduling, and machine learning. My Ph.D. research focuses on the intersection of real-time (RT) systems and machine learning (ML). Related research topics include real-time deep neural network inference (RT for ML) and machine learning based real-time system design (ML for RT). My previous research is related to combinatorial optimization and smart manufacturing.
+My research interests include optimization, scheduling, and machine learning. My Ph.D. research focuses on the intersection of real-time (RT) systems and artificial intelligence (AI). Related research topics include real-time scheduling and optimization of AI workloads (RT for AI) and AI-assisted real-time system design (AI for RT). My previous research is related to combinatorial optimization and smart manufacturing.
 
 Please feel free to send me an email if you are interested in my research and want to discuss relevant research topics or potential collaborations.
 

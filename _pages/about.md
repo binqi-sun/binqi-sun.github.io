@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. researcher @ <a href='https://www.tum.de/en/'>TUM</a> & <a href='https://illinois.edu/'>UIUC</a>
+subtitle: Researcher Associate @ <a href='https://www.tum.de/en/'>TUM</a>
 
 profile:
   align: center

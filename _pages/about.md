@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher Associate @ <a href='https://www.tum.de/en/'>TUM</a>
+# subtitle: Researcher Associate @ <a href='https://www.tum.de/en/'>TUM</a>
 
 profile:
   align: center

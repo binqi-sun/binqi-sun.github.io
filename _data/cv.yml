@@ -9,15 +9,16 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. student in Computer Science
+    - title: Doctorate in Computer Science
       institution: TUM School of Computation, Information, and Technology, Technical University of Munich (TUM), Germany
-      year: 2021 - 
+      year: 2021 - 2026
       description:
         - "Advisor: Marco Caccamo"
+        - Distinction: summa cum laude (highest distinction)
         # - Research on the intersection of real-time systems and machine learning
-    - title: Visiting Ph.D. student in Computer Science
+    - title: Visiting doctoral student in Computer Science
       institution: Department of Computer Science, University of Illinois Urbana-Champaign (UIUC), USA
-      year: 2024 - 
+      year: 2024
       description:
         - "Advisor: Tarek Abdelzaher"
     - title: M.Sc. in Control Science and Engineering
@@ -25,11 +26,17 @@
       year: 2017 - 2020
       description:
         - "Advisor: Ling Wang"
+        - Distinction: Outstanding Master's Thesis & Outstanding Graduate (highest distinction)
         # - "Thesis: Data-model Fusion Intelligent Optimization for Assembly Line Balancing"
 
 - title: Experience
   type: time_table
   contents:
+    - title: Research Associate
+      institution: Technical University of Munich
+      year: 2021 - 
+      description:
+        - Research and teaching at the Chair of Cyber-Physical Systems in Production Engineering
     - title: Research Assistant
       institution: Microsoft Research
       year: 2020 - 2021
@@ -44,6 +51,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Highest doctoral dissertation distinction, summa cum laude, Technical University of Munich
     - year: 2025
       items: 
         - Best Paper Award, International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)
@@ -56,8 +66,8 @@
         - Excellent Master's Thesis Award issued by the 4th Annual Conference on Intelligent Optimization and Scheduling
     - year: 2020
       items: 
-        - Excellent Graduate of Tsinghua University
-        - Excellent Master's Thesis Award issued by Tsinghua University
+        - Outstanding Graduate of Tsinghua University
+        - Outstanding Master's Thesis Award issued by Tsinghua University
     - year: 2019
       items: 
         - Tsinghua “December Ninth” Scholarship (一二·九奖学金)

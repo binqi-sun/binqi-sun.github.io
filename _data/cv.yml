@@ -14,7 +14,7 @@
       year: 2021 - 2026
       description:
         - "Advisor: Marco Caccamo"
-        - Distinction: summa cum laude (highest distinction)
+        - "Distinction: summa cum laude (highest distinction)"
         # - Research on the intersection of real-time systems and machine learning
     - title: Visiting doctoral student in Computer Science
       institution: Department of Computer Science, University of Illinois Urbana-Champaign (UIUC), USA
@@ -26,17 +26,17 @@
       year: 2017 - 2020
       description:
         - "Advisor: Ling Wang"
-        - Distinction: Outstanding Master's Thesis & Outstanding Graduate (highest distinction)
+        - "Distinction: Outstanding Master's Thesis & Outstanding Graduate (highest distinction)"
         # - "Thesis: Data-model Fusion Intelligent Optimization for Assembly Line Balancing"
 
-- title: Experience
+- title: Employment
   type: time_table
   contents:
     - title: Research Associate
       institution: Technical University of Munich
       year: 2021 - 
       description:
-        - Research and teaching at the Chair of Cyber-Physical Systems in Production Engineering
+        - Research & teaching at the Chair of Cyber-Physical Systems in Production Engineering, TUM School of Engineering and Design
     - title: Research Assistant
       institution: Microsoft Research
       year: 2020 - 2021

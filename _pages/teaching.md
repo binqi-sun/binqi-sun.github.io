@@ -8,22 +8,22 @@ nav_order: 4
 ---
 
 **Concepts and Software Design for Cyber-Physical Systems**<br>
-Fall '23 - 25, Master course, Technical Univerity of Munich<br>
+Fall '23 - 26, Graduate course, Technical Univerity of Munich<br>
 
 **Advanced Seminar on Safe Cyber-Physical Systems**<br>
-Spring '23, Master course, Technical Univerity of Munich<br>
+Spring '23, 25, Graduate course, Technical Univerity of Munich<br>
 
 **Concepts and Software Design for Cyber-Physical Systems**<br>
-Fall '22, Master course, Technical Univerity of Munich<br>
+Fall '22, Graduate course, Technical Univerity of Munich<br>
 
 **Advanced Seminar on Safe Cyber-Physical Systems**<br>
-Spring '22, Master course, Technical Univerity of Munich<br>
+Spring '22, Graduate course, Technical Univerity of Munich<br>
 
 **Concepts and Software Design for Cyber-Physical Systems**<br>
-Fall '21, Master course, Technical Univerity of Munich<br>
+Fall '21, Graduate course, Technical Univerity of Munich<br>
 
 **Cyber-Physical Systems Lab: Autonomous Applications**<br>
-Spring '21, Master course, Technical Univerity of Munich<br>
+Spring '21, Graduate course, Technical Univerity of Munich<br>
 
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
